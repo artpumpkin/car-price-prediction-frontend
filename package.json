@@ -20,16 +20,21 @@
     "framer-motion": "^3.3.0",
     "fuzzy-search": "^3.2.1",
     "react": "^17.0.1",
+    "react-date-picker": "^8.0.7",
+    "react-datepicker": "^3.5.0",
+    "react-datetime-picker": "^3.1.0",
     "react-dom": "^17.0.1",
     "react-icons": "^4.2.0",
     "react-query": "^3.8.3",
     "react-redux": "^7.2.2",
     "react-scripts": "4.0.2",
+    "react-spinners": "^0.10.6",
+    "react-twitter-embed": "^3.0.3",
+    "react-twitter-widgets": "^1.9.5",
     "redux-localstorage-simple": "^2.4.0"
   },
   "scripts": {
-    "start": "node server",
-    "start:dev": "react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

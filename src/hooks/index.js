@@ -1,3 +1,2 @@
-export * from './useQuery';
 export { default as useColor } from './useColor';
-export { default as useWidth } from './useWidth';
+export { default as usePrice } from './usePrice';
